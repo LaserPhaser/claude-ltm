@@ -1,0 +1,12 @@
+{
+  "name": "claude-ltm-marketplace",
+  "description": "Long-term memory plugin for Claude Code",
+  "plugins": [
+    {
+      "name": "claude-ltm",
+      "description": "Long-term memory for Claude Code — persist project decisions across sessions",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
