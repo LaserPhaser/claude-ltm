@@ -33,7 +33,7 @@ Add this to your `~/.claude/settings.json`:
     "claude-ltm-marketplace": {
       "source": {
         "source": "git",
-        "url": "https://github.com/<username>/claude-ltm.git"
+        "url": "https://github.com/LaserPhaser/claude-ltm.git"
       }
     }
   }
