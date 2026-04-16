@@ -2,7 +2,7 @@
   "name": "claude-ltm",
   "description": "Long-term memory for Claude Code — persist project decisions across sessions",
   "version": "1.0.0",
-  "author": { "name": "" },
+  "author": { "name": "LaserPhaser" },
   "repository": "https://github.com/<username>/claude-ltm",
   "license": "MIT",
   "keywords": ["memory", "decisions", "context", "long-term"]
