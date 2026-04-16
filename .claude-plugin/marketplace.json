@@ -15,7 +15,7 @@
       "version": "1.0.0",
       "source": {
         "source": "url",
-        "url": ""
+        "url": "https://github.com/LaserPhaser/claude-ltm.git"
       }
     }
   ]
