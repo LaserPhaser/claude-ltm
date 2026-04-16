@@ -1,12 +1,22 @@
 {
   "name": "claude-ltm-marketplace",
-  "description": "Long-term memory plugin for Claude Code",
+  "owner": {
+    "name": "LaserPhaser",
+    "email": "arseny.antonov@gmail.com"
+  },
+  "metadata": {
+    "description": "Long-term memory plugin for Claude Code",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "claude-ltm",
       "description": "Long-term memory for Claude Code — persist project decisions across sessions",
       "version": "1.0.0",
-      "source": "./"
+      "source": {
+        "source": "url",
+        "url": ""
+      }
     }
   ]
 }
